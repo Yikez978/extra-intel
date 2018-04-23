@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "_id": "asdffgfds",
+      "_index": "extrahop-4-2018-0-03-0",
+      "_score": "None",
+      "_source": {
+        "application": {
+          "type": "application",
+          "value": [
+            "CloudApps"
+          ]
+        },
+        "client": {
+          "type": "device",
+          "value": [
+            "0000ffff0000ffff"
+          ]
+        },
+        "clientAddr": {
+          "type": "ipaddr4",
+          "value": "66.228.43.103"
+        },
+        "clientPort": 55520,
+        "clientZeroWnd": 0,
+        "flowID": "0000ffffcccc8888",
+        "host": "192.168.0.2",
+        "isPipelined": "False",
+        "isReqAborted": "False",
+        "isRspAborted": "False",
+        "isRspChunked": "False",
+        "isRspCompressed": "False",
+        "method": "GET",
+        "reqBytes": 53,
+        "reqL2Bytes": 534,
+        "reqPkts": 6,
+        "reqRTO": 0,
+        "reqSize": 0,
+        "roundTripTime": 80.807,
+        "rspBytes": 52,
+        "rspL2Bytes": 324,
+        "rspPkts": 4,
+        "rspRTO": 0,
+        "timestamp": 1522411564072.132,
+        "uri": "192.168.0.2:25/nice%20ports%2C/Tri%6Eity.txt%2ebak"
+      },
+      "_type": "~http",
+      "sort": [
+        1522411564072.132
+      ]
+    },
+    {
+      "_id": "asdffgfds",
+      "_index": "extrahop-4-2018-0-03-0",
+      "_score": "None",
+      "_source": {
+        "application": {
+          "type": "application",
+          "value": [
+            "CloudApps"
+          ]
+        },
+        "client": {
+          "type": "device",
+          "value": [
+            "0000ffff0000ffff"
+          ]
+        },
+        "clientAddr": {
+          "type": "ipaddr4",
+          "value": "93.174.93.46"
+        },
+        "clientPort": 55520,
+        "clientZeroWnd": 0,
+        "flowID": "0000ffffcccc8888",
+        "host": "192.168.0.2",
+        "isPipelined": "False",
+        "isReqAborted": "False",
+        "isRspAborted": "False",
+        "isRspChunked": "False",
+        "isRspCompressed": "False",
+        "method": "GET",
+        "reqBytes": 53,
+        "reqL2Bytes": 534,
+        "reqPkts": 6,
+        "reqRTO": 0,
+        "reqSize": 0,
+        "roundTripTime": 80.807,
+        "rspBytes": 52,
+        "rspL2Bytes": 324,
+        "rspPkts": 4,
+        "rspRTO": 0,
+        "timestamp": 1522411564072.132,
+        "uri": "192.168.0.2:25/nice%20ports%2C/Tri%6Eity.txt%2ebak"
+      },
+      "_type": "~http",
+      "sort": [
+        1522411564072.132
+      ]
+    },
+       {
+      "_id": "asdffgfds",
+      "_index": "extrahop-4-2018-0-03-0",
+      "_score": "None",
+      "_source": {
+        "application": {
+          "type": "application",
+          "value": [
+            "CloudApps"
+          ]
+        },
+        "client": {
+          "type": "device",
+          "value": [
+            "0000ffff0000ffff"
+          ]
+        },
+        "serverAddr": {
+          "type": "ipaddr4",
+          "value": "66.228.43.103"
+        },
+        "serverPort": 80,
+        "serverzeroWnd": 0,
+        "flowID": "0000ffffcccc8888",
+        "host": "192.168.0.2",
+        "isPipelined": "False",
+        "isReqAborted": "False",
+        "isRspAborted": "False",
+        "isRspChunked": "False",
+        "isRspCompressed": "False",
+        "method": "GET",
+        "reqBytes": 53,
+        "reqL2Bytes": 534,
+        "reqPkts": 6,
+        "reqRTO": 0,
+        "reqSize": 0,
+        "roundTripTime": 80.807,
+        "rspBytes": 52,
+        "rspL2Bytes": 324,
+        "rspPkts": 4,
+        "rspRTO": 0,
+        "timestamp": 1522411564072.132,
+        "uri": "192.168.0.2:25/nice%20ports%2C/Tri%6Eity.txt%2ebak"
+      },
+      "_type": "~http",
+      "sort": [
+        1522411564072.132
+      ]
+    }
+  ],
+  "total": 2,
+  "from": 1522368878923,
+  "until": 152243300000
+}
