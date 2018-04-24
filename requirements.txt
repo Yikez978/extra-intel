@@ -1,0 +1,5 @@
+OTXv2
+configparser
+urllib3
+requests
+fire

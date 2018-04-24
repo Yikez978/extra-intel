@@ -30,4 +30,5 @@ The sample.ini file contains a sample configuration file for this project.
 
 ### Installation
 
-I think just clone this repo and run setup.py. Or something. This is very very in development...you've been warned.
+Clone this repo, `cd` into it, and run `pip install -r requirements.txt`. Or something. This is very very in development
+...you've been warned.
