@@ -33,6 +33,6 @@ EH_CALL_BASE = {
 
 EH_HEADER_INFO = {'Content-Type': 'application/json',
                'Accept': 'application/json',
-               'Authorization': 'Extrahop apikey={0}'.format(EH_API_KEY)}
+               'Authorization': 'ExtraHop apikey={0}'.format(EH_API_KEY)}
 
 EH_API_ENDPOINT: str = 'https://{0}/api/v1/records/search'.format(EH_INSTANCE_ADDR)
